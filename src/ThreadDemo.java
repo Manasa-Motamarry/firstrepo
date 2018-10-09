@@ -1,7 +1,7 @@
 //class Thre extends Thread {
 //
 //}
-
+//Made some changessssssss for git
 class Thr extends Thread {
 	//private int thread_num;
 Thread tr;
